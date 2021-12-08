@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi2432&label=Profile%20views&color=0e75b6&style=flat" alt="aditi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sheharyaar/#my-projects](https://github.com/aditi2432/#my-projects)
+- 👨‍💻 All of my projects are available at [https://github.com/aditi2432/#my-projects](https://github.com/aditi2432/#my-projects)
 
 - 📫 How to reach me **aditianand2432@gmail.com**
 
