@@ -10,9 +10,7 @@
 - 📫 How to reach me **aditianand2432@gmail.com**
 
 # My Projects
-- Exif Data Extractor in C - [Checkout here](https://github.com/sheharyaar/exif-data-extractor)
-- Concurrent Web Server in C - [Checkout here](https://github.com/sheharyaar/web-server-in-c)
-- Doorbell Telegram BOT in Python - [Checkout here](https://github.com/sheharyaar/DoorBOT-Telegram)
+- Tic Tac Toe in C++ - [Checkout here](https://github.com/aditi2432/tic-tac-toe)
 
 # Projects Queue
 - TCP and TCP Congestion Implementation over UDP
