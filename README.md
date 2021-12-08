@@ -13,4 +13,4 @@
 - Tic Tac Toe in C++ - [Checkout here](https://github.com/aditi2432/tic-tac-toe)
 
 # Projects Queue
-- TCP and TCP Congestion Implementation over UDP
+- Cloud Computing
