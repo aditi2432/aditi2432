@@ -11,8 +11,8 @@
 - 📫 How to reach me **aditianand2432@gmail.com**
 
 # My Projects
+- Recommendation System - [Checkout here](https://github.com/aditi2432/engage-2022)
 - Student Management System in C++ - [Checkout here](https://github.com/aditi2432/student-management)
-- Tic Tac Toe in C++ - [Checkout here](https://github.com/aditi2432/tic-tac-toe)
 
 # Projects Queue
 - Cloud Computing
