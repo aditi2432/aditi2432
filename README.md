@@ -14,4 +14,4 @@
 - Student Management System in C++ - [Checkout here](https://github.com/aditi2432/student-management)
 
 # Projects Queue
-- Cloud Computing
+- Collaborative Task Manager
