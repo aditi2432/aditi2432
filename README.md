@@ -11,7 +11,7 @@
 
 # My Projects
 - Recommendation System - [Checkout here](https://github.com/aditi2432/engage-2022)
-- Student Management System in C++ - [Checkout here](https://github.com/aditi2432/student-management)
+- DNS Logger - [Checkout here](https://github.com/aditi2432/dnslogger)
 
 # Projects Queue
 - Collaborative Task Manager
